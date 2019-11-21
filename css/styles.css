@@ -5,19 +5,20 @@ color: purple;
 font-family: "Courier New", Courier, monospace
 
 }
-p {
-  color: darkblue;
-  font-size: 48px;
-  width: 40%;
-  margin: 10vh 10vw;
-  font-size: 2em;
-}
 
 h1 {
   font-family: Impact, Charcoal, sans-serif;
   color: lightblue;
   text-align: right;
-  font-size: 5em;
+  font-size: 30px;
+}
+
+p {
+  color: darkblue;
+  font-size: 20px;
+  width: 40%;
+  margin: 10vh 10vw;
+  font-size: 2em;
 }
 
 
