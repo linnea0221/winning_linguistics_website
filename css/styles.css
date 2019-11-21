@@ -20,7 +20,6 @@ p {
   color: darkblue;
   font-size: 20px;
   width: 40%;
-  margin: 100px;
 }
 
 
@@ -33,3 +32,9 @@ ul {
     display: inline;
     padding: 0px 10px 0px 10px;
   }
+
+  P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
