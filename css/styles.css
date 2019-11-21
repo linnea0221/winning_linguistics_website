@@ -10,7 +10,7 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
 h1 {
-    color: lightblue;
+    color: turquoise;
   text-align: center;
   font-size: 30px;
 }
@@ -19,6 +19,9 @@ p {
   text-align: center;
   color: darkblue;
   font-size: 20px;
+  width: 40%;
+}
+
 
 ul {
   text-align: center;
@@ -33,5 +36,5 @@ ul {
   P.blocktext {
     margin-left: auto;
     margin-right: auto;
-    width: 8em
+    width: 700px
 }
