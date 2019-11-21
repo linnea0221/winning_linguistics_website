@@ -19,7 +19,8 @@ p {
   text-align: center;
   color: darkblue;
   font-size: 20px;
-  width: 40%;}
+  width: 40%;
+}
 
 
 ul {
@@ -35,5 +36,5 @@ ul {
   P.blocktext {
     margin-left: auto;
     margin-right: auto;
-    width: 8em
+    width: 700px
 }
