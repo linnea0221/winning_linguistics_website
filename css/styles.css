@@ -23,13 +23,14 @@ p {
 
 ul {
   text-align: center;
+  background: orange;
+}
 
-    background: orange;
-  }
+
   li {
     display: inline;
     padding: 0px 10px 0px 10px;
-  }
+}
 
   P.blocktext {
     margin-left: auto;
