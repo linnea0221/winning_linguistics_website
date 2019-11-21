@@ -1,12 +1,13 @@
-<!DOCTYPE css>
+
+
 body {
 
-color: rgb(65,75,86);
+color: black;
 font-family: "Courier New", Courier, monospace
 
 }
 p {
-  color: green;
+  color: darkblue;
   font-size: 48px;
   width: 40%;
   margin: 10vh 10vw;
