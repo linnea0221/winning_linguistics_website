@@ -3,12 +3,12 @@
 
 
 body {
-background-color: yellow;
+background-color:  #6699ff;
 font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
 h1 {
-  color: blue;
+  color: #001a4d;
   text-align: center;
   font-size: 30px;
 }
@@ -22,7 +22,7 @@ p {
 
 ul {
   text-align: center;
-  background: orange;
+  background: #ff9900;
 }
 
 
