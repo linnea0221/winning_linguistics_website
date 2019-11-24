@@ -34,5 +34,8 @@ ul {
   P.blocktext {
     margin-left: auto;
     margin-right: auto;
-    width: 700px
+    width: 700px;
+}
+img {
+    width: 400px;
 }
