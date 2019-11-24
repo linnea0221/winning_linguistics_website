@@ -20,6 +20,12 @@ p {
 }
 
 
+#Branches {
+  list-style-type: none 
+
+}
+
+
 ul {
   text-align: center;
   background: #f8e9a1;
