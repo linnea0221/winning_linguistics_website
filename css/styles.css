@@ -3,26 +3,26 @@
 
 
 body {
-background-color:  #6699ff;
+background-color:  #a8d0e6;
 font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
 h1 {
-  color: #001a4d;
+  color: #374785;
   text-align: center;
   font-size: 30px;
 }
 
 p {
   text-align: center;
-  color: darkblue;
+  color: #f76c6c;
   font-size: 20px;
 }
 
 
 ul {
   text-align: center;
-  background: #ff9900;
+  background: #f8e9a1;
 }
 
 
