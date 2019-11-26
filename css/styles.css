@@ -29,6 +29,14 @@ p {
 ul {
   text-align: center;
   background: #f8e9a1;
+  margin-left: 200px
+  margin-right: 200px 
+}
+
+
+  li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
 }
 
   P.blocktext {
