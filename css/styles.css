@@ -46,3 +46,7 @@ ul {
 img {
     width: 400px;
 }
+
+#carouselExampleCaptions {
+    border-radius: 10px 
+}
