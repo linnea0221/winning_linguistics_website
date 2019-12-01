@@ -8,6 +8,12 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+
+<meta charset="UTF-8">
+  <title></title>
+  <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+
   </head>
 
   <nav <a class="navbar navbar-light" style="background-color: #6699ff;"</a>
@@ -20,6 +26,9 @@
   </nav
 
 <body>
+
+<script src="scripts.js"></script>
+
   <h1> <a href="index.html"> Linguistics4KewlKatz </a></h1>
 
   <ul>
@@ -31,20 +40,28 @@
     <li> <a href="other_resources.html"> Other Resources </a></li>
   </ul>
     <!--This is the bit I've been changing for each site-->
-  <p>
-  Fun facts!
-  <button>Like</button>
-  </p>
+
+  <div class="main">
+    <h3> Fun facts!</h3>
+   <button id="clickme">How many people like this fact: 0</button>
+ </div>
+
+<script>
+ var button = document.getElementById("clickme"),
+   count = 0;
+ button.onclick = function() {
+   count += 1;
+   button.innerHTML = "How many people like this fact: " + count;
+ };
+
+ </script>
+
+
 
   <p>
       A schwa is never stressed
   <button>Like</button>
 
-  <script>
-  <!--for an interactive button, add button tags before and after whatever you want to press-->
-$("button").on("click", function() {
-  alert("You've liked a fun fact!")
-});
-</script>
+
 </body>
 </html>
