@@ -44,23 +44,34 @@
   <div class="main">
     <h3> Fun facts!</h3>
    <button id="clickme">How many people like this fact: 0</button>
+
+   <h4> A schwa is never stressed!</h4>
+    <button id="clickme2">How many people like this fact: 0</button>
  </div>
 
-<script>
- var button = document.getElementById("clickme"),
-   count = 0;
- button.onclick = function() {
-   count += 1;
-   button.innerHTML = "How many people like this fact: " + count;
- };
-
- </script>
 
 
+  <script>
+   var button = document.getElementById("clickme"),
+     count = 0;
+   button.onclick = function() {
+     count += 1;
+     button.innerHTML = "How many people like this fact: " + count;
+   };
 
-  <p>
-      A schwa is never stressed
-  <button>Like</button>
+
+   var button = document.getElementById("clickme2"),
+     count = 0;
+   button.onclick = function() {
+     count += 1;
+     button.innerHTML = "How many people like this fact: " + count;
+   };
+
+   </script>
+
+
+
+
 
 
 </body>
