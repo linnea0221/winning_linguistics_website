@@ -54,5 +54,8 @@ img {
 #columns {
 padding-left: 200px;
 padding-right: 200px;
+}
 
+#columns_chomsky {
+  padding-right: 50px;
 }
