@@ -16,3 +16,10 @@ console.log('helllllo')
    count_2 += 1;
    button_2.innerHTML = "How many people like this: " + count_2;
  };
+
+
+ $("fun_fact").on("submit",
+
+ function() {
+   alert("You submitted a fun fact!")
+ });
