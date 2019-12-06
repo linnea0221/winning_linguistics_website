@@ -18,7 +18,7 @@ console.log('helllllo')
  };
 
 
- $("fun_fact_submitted").on("submit",
+ $("fun_fact").on("submit",
 
  function() {
    alert("You submitted a fun fact!")
