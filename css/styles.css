@@ -19,7 +19,7 @@ h1 {
 
 p {
   text-align: center;
-  color: #f76c6c;
+  color: black;
   font-size: 20px;
 }
 
@@ -29,7 +29,7 @@ p {
 }
 
 
-ul {
+#top_bar {
   text-align: center;
   background: #f8e9a1;
   margin-left: 200px
