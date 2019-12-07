@@ -55,6 +55,7 @@ p.blocktext {
     margin-left: auto;
     margin-right: auto;
     width: 700px;
+    color: black;
 }
 
 img {
@@ -72,4 +73,17 @@ padding-right: 200px;
 
 #columns_chomsky {
   padding-right: 50px;
+}
+
+#domains {
+  color: black;
+}
+
+iframe:focus {
+  outline: none;
+}
+
+iframe[seamless] {
+  display: block;
+  align-items: center;
 }
