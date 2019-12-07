@@ -90,6 +90,13 @@ iframe[seamless] {
 
 
 div.main {
-margin-left: 200px;
-font-size: 50px;
+padding: 300px
+}
+
+#clickme {
+  font-size: 30px;
+}
+
+#clickme2 {
+  font-size: 30px;
 }
