@@ -87,3 +87,9 @@ iframe[seamless] {
   display: block;
   align-items: center;
 }
+
+
+div.main {
+margin-left: 200px;
+font-size: 50px;
+}
