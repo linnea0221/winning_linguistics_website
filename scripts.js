@@ -14,7 +14,14 @@ console.log('helllllo')
    count_2 = 0;
  button_2.onclick = function() {
    count_2 += 1;
-   button_2.innerHTML = "How many people like this: " + count_2;
+   button_2.innerHTML = "How many people like this fact: " + count_2;
+ };
+
+ var button_3 = document.getElementById("clickme3"),
+   count_3 = 0;
+ button_3.onclick = function() {
+   count_3 += 1;
+   button_3.innerHTML = "How many people like this fact: " + count_3;
  };
 
 

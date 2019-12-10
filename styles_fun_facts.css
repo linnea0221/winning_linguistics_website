@@ -1,4 +1,8 @@
-h2.linguistic_fact_heading {
+.background {
+background-color: white;
+}
+
+#linguistic_fact_heading {
 color: white;
 }
 
