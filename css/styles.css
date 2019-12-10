@@ -28,9 +28,6 @@ p {
   font-size: 20px;
 }
 
-#Branches {
-  text-align: left;
-}
 
 .actual_content {
   background-color: white;
@@ -44,13 +41,6 @@ p {
   margin-right: 200px;
 }
 
-
-li {
-    display: inline;
-    padding: 0px 10px 0px 10px;
-    color: black;
-}
-
 p.blocktext {
     margin-left: auto;
     margin-right: auto;
@@ -58,28 +48,58 @@ p.blocktext {
     color: black;
 }
 
+
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    color: black;
+}
+
+
+ul.domains {
+ padding-left: 200px
+  color: black;
+
+}
+
+#Phonetics {
+  color: black;
+}
+
+#Phonology {
+  color: black;
+}
+
+#Morphology {
+  color: black;
+}
+
+#Syntax {
+  color: black;
+}
+
+#Semantics {
+  color: black;
+}
+
+#Pragmatics {
+  color: black;
+}
+
+#Discourse {
+  color: black;
+}
+
 img {
     width: auto;
 }
 
-#carouselExampleCaptions {
-    border-radius: 10px
-}
 
 
 
-#domains {
-  color: black;
-}
 
-iframe:focus {
-  outline: none;
-}
 
-iframe[seamless] {
-  display: block;
-  align-items: center;
-}
+
 
 
 div.main {
