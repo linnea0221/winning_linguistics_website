@@ -48,6 +48,11 @@ p.blocktext {
     color: black;
 }
 
+#introduction {
+  padding-left: 20px;
+}
+
+
 
 li {
     display: inline;
