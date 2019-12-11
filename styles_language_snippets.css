@@ -1,8 +1,0 @@
-iframe:focus {
-  outline: none;
-}
-
-iframe[seamless] {
-  display: block;
-  align-items: center;
-}

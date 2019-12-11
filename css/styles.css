@@ -102,3 +102,37 @@ font-size: 25px;
 img {
     width: auto;
 }
+
+
+.button_group {
+padding-left: 100px;
+align-items: center;
+font-size: 100px;
+color: white;
+}
+
+
+#columns {
+padding-left: 200px;
+padding-right: 200px;
+}
+
+
+#columns_chomsky {
+  padding-right: 50px;
+}
+
+
+#carouselExampleCaptions {
+    border-radius: 10px
+}
+
+
+iframe:focus {
+  outline: none;
+}
+
+iframe[seamless] {
+  display: block;
+  align-items: center;
+}
