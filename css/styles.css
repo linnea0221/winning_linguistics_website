@@ -27,7 +27,7 @@ h1 {
 p {
   text-align: center;
   color: white;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 
@@ -105,12 +105,34 @@ img {
 
 
 .button_group {
-padding-left: 100px;
-align-items: center;
-font-size: 100px;
+margin-left: 50px;
 color: white;
 }
 
+.button {
+  background-color: #4CAF50; /* Green */
+border: none;
+color: white;
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 25px;
+border-radius: 10px;
+}
+
+
+
+#fun_fact {
+  background-color: #4CAF50; /* Green */
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
 
 #columns {
 padding-left: 200px;
@@ -135,4 +157,13 @@ iframe:focus {
 iframe[seamless] {
   display: block;
   align-items: center;
+}
+
+.col {
+  color: white;
+}
+
+#chomsky_text {
+  font-size: 20px;
+  color: white;
 }
