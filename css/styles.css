@@ -127,11 +127,12 @@ border-radius: 10px;
   background-color: #4CAF50; /* Green */
 border: none;
 color: white;
-padding: 15px 32px;
+padding: 10px 20px;
 text-align: center;
 text-decoration: none;
 display: inline-block;
-font-size: 16px;
+font-size: 25px;
+border-radius: 10px;
 }
 
 #columns {
@@ -142,6 +143,10 @@ padding-right: 200px;
 
 #columns_chomsky {
   padding-right: 50px;
+  background-color: white;
+  padding: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 
@@ -165,9 +170,11 @@ iframe[seamless] {
 
 #chomsky_text {
   font-size: 20px;
-  color: white;
+  color: black;
 }
 
 #introduction_text {
   color: black;
+  font-size: 20px;
+  margin: 10px;
 }
