@@ -16,6 +16,8 @@ background-image: linear-gradient(purple, darkblue);
 background-attachment: fixed;
 }
 
+
+
 h1 {
   color: white;
   text-align: center;
@@ -50,6 +52,7 @@ p.blocktext {
 
 #introduction {
   padding-left: 20px;
+  color: black;
 }
 
 
