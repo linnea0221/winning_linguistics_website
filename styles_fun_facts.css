@@ -1,11 +1,12 @@
-.background {
-background-color: white;
-}
-
-#linguistic_fact_heading {
+.button_group {
+align-items: center;
+font-size: 40px;
 color: white;
 }
 
+.main {
+  color: white;
+}
 
 
 #clickme {
