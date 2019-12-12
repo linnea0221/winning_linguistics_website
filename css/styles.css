@@ -13,6 +13,7 @@ a {
 body {
 font-family: 'Yanone Kaffeesatz', sans-serif;
 background-image: linear-gradient(purple, darkblue);
+background-attachment: fixed;
 }
 
 
