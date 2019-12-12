@@ -25,9 +25,16 @@ h1 {
 }
 
 h2 {
-  color: white;
+  color: black;
   text-align: center;
   font-size: 40px;
+}
+
+h3 {
+  color: white;
+  text-align: left;
+  font-size: 30px;
+
 }
 
 p {
@@ -141,12 +148,17 @@ color: white;
   border-radius: 10px;
 }
 
+#columns {
+  padding-right: 20px;
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
+}
 
 #columns_chomsky {
   padding-right: 20px;
   background-color: white;
   padding: 20px;
-
   margin: 20px;
 }
 
