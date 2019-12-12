@@ -172,6 +172,10 @@ color: white;
 
 }
 
+.carouselcaptions {
+    color: black;
+
+}
 
 iframe:focus {
   outline: none;
