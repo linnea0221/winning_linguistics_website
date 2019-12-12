@@ -23,12 +23,3 @@ console.log('helllllo')
    count_3 += 1;
    button_3.innerHTML = "Number of times you've liked this fact: " + count_3;
  };
-
-
- $("fun_fact").on("click", function() {
-  alert("You submitted a fun fact!")
-});
-
- function() {
-   alert("You submitted a fun fact!")
- });
