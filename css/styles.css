@@ -33,7 +33,10 @@ h3 {
   color: white;
   text-align: left;
   font-size: 30px;
+}
 
+#Mascots {
+  color: black
 }
 
 p {
@@ -199,6 +202,6 @@ margin-right: 100px;
   margin-right: 25%;
 }
 
-h5 {
+h5{
   font-size: 25px;
 }
